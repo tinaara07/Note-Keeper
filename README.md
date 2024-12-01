@@ -1,4 +1,4 @@
-# Note-Keeper
+# Note-Taker
 Description
 The Note Taker application allows users to easily create, view, edit, and delete notes in a user-friendly web interface. It provides a simple way to save, manage, and organize notes, as well as view and delete existing ones.
 
