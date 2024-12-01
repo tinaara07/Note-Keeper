@@ -61,4 +61,9 @@ Node.js
 Express.js (for backend)
 File System (for storing notes)
 
+Links:
+https://github.com/tinaara07/Note-Taker
+
+https://note-taker-jc7f.onrender.com
+
 ![Untitled Video November 30, 2024 5_10 PM webm](https://github.com/user-attachments/assets/38800441-8c42-4fcb-bf27-0a282dba9958)
